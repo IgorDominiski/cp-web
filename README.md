@@ -10,6 +10,16 @@ lista de tarefas
 ### Tecnologias usadas
 - React + TypeScript + Vite
 - TailwindCSS v4
+
+- ### Como executar localmente
+1. Instale dependências:
+   ```bash
+   npm install
+   ```
+2. Rode em desenvolvimento:
+   ```bash
+   npm run dev
+   ```
 Abra o endereço indicado no terminal (geralmente `http://localhost:5173`).
 
 ### Sobre a aplicação
